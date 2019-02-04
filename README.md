@@ -1,0 +1,2 @@
+- Create maven project from (https://github.com/jasongoodwin/better-java-monads)
+- Create new method to print stack trace.

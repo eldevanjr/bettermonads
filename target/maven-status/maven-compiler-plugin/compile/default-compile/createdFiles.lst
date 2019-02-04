@@ -1,0 +1,7 @@
+monads/Futures.class
+monads/TrySupplier.class
+monads/Failure.class
+monads/Try.class
+monads/Success.class
+monads/TryConsumer.class
+monads/TryMapFunction.class
